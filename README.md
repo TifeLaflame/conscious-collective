@@ -8,9 +8,17 @@ and Vanilla Javascript.
 
 This website is responsive on all mobile devices.
 
-## Starting 
+## Viewing live version of project 
+```bash
+  npm start
+```
+## Building Project
+``` bash
+  npm run build
+``` 
 
 ## Tools Used 
+1. Build tool - Webpack
 1. Adobe XD 
 1. Icons gotten from [FlatIcons](https://www.flaticon.com/).
 1. Images gotten from my camera roll.
